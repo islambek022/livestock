@@ -1,2 +1,2 @@
-# livestock
+# livestock-web
 Database of goats
